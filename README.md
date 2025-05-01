@@ -18,12 +18,12 @@ This project performs sentiment analysis on movie reviews using NLP and machine 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sentiment_analysis.git
+   git clone https://github.com/asmitachakrab/Sentiment-Analysis-Movie-Reviews.git
 
-### Install Dependencies
-pip install -r requirements.txt
+  ### Install Dependencies
+    pip install -r requirements.txt
 
-### To run the Streamlit app:
-streamlit run app.py
+  ### To run the Streamlit app:
+    streamlit run app.py
 
 2. Enter a movie review to get its sentiment prediction.
