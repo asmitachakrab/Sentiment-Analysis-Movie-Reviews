@@ -5,7 +5,6 @@
 2. [Features](#features)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [License](#license)
 
 ## Introduction
 This project performs sentiment analysis on movie reviews using NLP and machine learning. It classifies reviews as either positive or negative.
@@ -23,7 +22,8 @@ This project performs sentiment analysis on movie reviews using NLP and machine 
   ### Install Dependencies
     pip install -r requirements.txt
 
+## Usage
   ### To run the Streamlit app:
     streamlit run app.py
 
-2. Enter a movie review to get its sentiment prediction.
+Enter a movie review to get its sentiment prediction.
